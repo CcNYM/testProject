@@ -11,6 +11,10 @@ public class MyFirstApp {
 		System.out.println("test");
 		System.out.println("test");
 		System.out.println("test");
+		System.out.println("test");
+		System.out.println("test");
+		System.out.println("test");
+		System.out.println("test");
 
 	}
 
