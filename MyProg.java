@@ -12,5 +12,7 @@ public class MyProg {
 		System.out.println("Goodbye from my program.");
 
 		//local test
+
+		//web test
 	}
 }
