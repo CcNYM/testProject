@@ -15,6 +15,8 @@ public class MyProg {
 
 		//local test_2
 
+		//web test
+
 		//locat test_3
 	}
 }
