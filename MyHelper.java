@@ -5,5 +5,7 @@ public class MyHelper {
 		System.out.println("It is now " + new java.util.Date());
 
 		//web test
+
+		//web test 2
 	}
 }
